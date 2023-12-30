@@ -9,7 +9,9 @@
   "author": "tanvir",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^13.3.3"
+    "cypress": "^13.3.3",
+    "cypress-iframe": "^1.0.1",
+    "D": "^1.0.0"
   },
   "devDependencies": {
     "cypress-xpath": "^2.0.1"
